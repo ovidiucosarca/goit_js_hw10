@@ -1,0 +1,20 @@
+.cat-data {
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+}
+
+.breed-info {
+  display: flex;
+  flex-direction: column;
+  padding-left: 30px;
+  width: 400px;
+}
+
+.breed-select {
+  max-width: 300px;
+}
+
+.is-hidden {
+  display: none;
+}
